@@ -1,7 +1,5 @@
 # home-sales
 
-  <div class="description user_content "><div id="bootcamp">
-<img style="display: none;" src="https://static.bc-edx.com/data/dl-1-2/m22/lms/img/banner.jpg" alt="lesson banner">
     <p>In this challenge, you'll use your knowledge of SparkSQL to determine key metrics about home sales data. Then you'll use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.</p>
     <h3>Before You Begin</h3>
     <ol>
